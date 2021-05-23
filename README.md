@@ -4,10 +4,10 @@
 <ul>
     <li>
         Email: <a href="mailto:freebeego@yandex.ru">freebeego@yandex.ru</a>
-    
+    </li>
     <li>
         Telegram: <a href="https://t.me/freebeego">@freebeego</a>
-    
+    </li>
 </ul>
 
 <h3>My stack of technologies:</h3>
