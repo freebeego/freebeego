@@ -3,6 +3,9 @@
 <h3>You can reach me:</h3>
 <ul>
     <li>
+        in: <a href="https://www.linkedin.cn/in/freebeego/">freebeego@yandex.ru</a>
+    </li>
+    <li>
         Email: <a href="mailto:freebeego@yandex.ru">freebeego@yandex.ru</a>
     </li>
     <li>
